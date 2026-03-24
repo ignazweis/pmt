@@ -1,1 +1,1 @@
-# PomoForge
+# Tiny Pomodoro Timer
